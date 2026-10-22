@@ -1,0 +1,1492 @@
+{
+  "mode": "historical",
+  "context": {
+    "storeCode": "1450713",
+    "orderType": 1,
+    "beType": 1
+  },
+  "createdAt": "2026-10-22T03:07:26.274Z",
+  "base": {
+    "name": "麦香鸡中套餐",
+    "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260824/product/MS_9900005453_600.png",
+    "components": [
+      {
+        "code": "1450",
+        "name": "麦香鸡",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_1450_320.png"
+      },
+      {
+        "code": "4810",
+        "name": "中薯条",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/20250523/product/MS_G4810_320_1747877491921.png"
+      },
+      {
+        "code": "3050",
+        "name": "可乐中杯",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_9900008751_320.gif"
+      }
+    ],
+    "nutrition": {
+      "energyKcal": 805,
+      "protein": 19,
+      "fat": 29,
+      "carbohydrate": 113,
+      "sodium": 896,
+      "calcium": 101,
+      "complete": true,
+      "missing": []
+    },
+    "priceCents": 2800,
+    "quotedAt": "2026-10-22 11:07:25",
+    "productCents": 2800,
+    "packingCents": null,
+    "route": "原套餐选配",
+    "couponTitle": null,
+    "usedCoupon": false,
+    "couponSavingCents": 0,
+    "comparisons": [
+      {
+        "priceCents": 2800,
+        "quotedAt": "2026-10-22 11:07:25",
+        "productCents": 2800,
+        "packingCents": null,
+        "route": "原套餐选配",
+        "couponTitle": null,
+        "usedCoupon": false
+      },
+      {
+        "priceCents": 4050,
+        "quotedAt": "2026-10-22 11:07:25",
+        "productCents": 4050,
+        "packingCents": null,
+        "route": "同餐品单点组合",
+        "couponTitle": null,
+        "usedCoupon": false
+      }
+    ],
+    "failures": [],
+    "attempts": 2
+  },
+  "candidates": [
+    {
+      "code": "3071",
+      "name": "无糖可口可乐中杯",
+      "image": null,
+      "from": "可乐中杯",
+      "components": [
+        {
+          "code": "1450",
+          "name": "麦香鸡",
+          "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_1450_320.png"
+        },
+        {
+          "code": "4810",
+          "name": "中薯条",
+          "image": "https://menu-img.mcd.cn/pcm/prod/menu/20250523/product/MS_G4810_320_1747877491921.png"
+        },
+        {
+          "code": "3071",
+          "name": "无糖可口可乐中杯",
+          "image": null
+        }
+      ],
+      "nutrition": {
+        "energyKcal": 658,
+        "protein": 19,
+        "fat": 29,
+        "carbohydrate": 78,
+        "sodium": 931,
+        "calcium": 91,
+        "complete": true,
+        "missing": []
+      },
+      "newTagged": false,
+      "tags": [],
+      "relatedActivities": [],
+      "priceCents": 2800,
+      "quotedAt": "2026-10-22 11:07:26",
+      "productCents": 2800,
+      "packingCents": null,
+      "route": "原套餐选配",
+      "couponTitle": null,
+      "usedCoupon": false,
+      "couponSavingCents": 0,
+      "comparisons": [
+        {
+          "priceCents": 2800,
+          "quotedAt": "2026-10-22 11:07:26",
+          "productCents": 2800,
+          "packingCents": null,
+          "route": "原套餐选配",
+          "couponTitle": null,
+          "usedCoupon": false
+        }
+      ],
+      "failures": [],
+      "attempts": 1,
+      "state": "eligible",
+      "reasons": [],
+      "deltaCents": 0,
+      "deltaKcal": -147
+    },
+    {
+      "code": "521817",
+      "name": "【美汁源】“多汁柠柠”",
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260807/product/MS_521817_320.png",
+      "from": "可乐中杯",
+      "components": [
+        {
+          "code": "1450",
+          "name": "麦香鸡",
+          "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_1450_320.png"
+        },
+        {
+          "code": "4810",
+          "name": "中薯条",
+          "image": "https://menu-img.mcd.cn/pcm/prod/menu/20250523/product/MS_G4810_320_1747877491921.png"
+        },
+        {
+          "code": "521817",
+          "name": "【美汁源】“多汁柠柠”",
+          "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260807/product/MS_521817_320.png"
+        }
+      ],
+      "nutrition": {
+        "energyKcal": null,
+        "protein": null,
+        "fat": null,
+        "carbohydrate": null,
+        "sodium": null,
+        "calcium": null,
+        "complete": false,
+        "missing": [
+          "【美汁源】“多汁柠柠”"
+        ]
+      },
+      "newTagged": true,
+      "tags": [
+        "上新",
+        "清爽上新"
+      ],
+      "relatedActivities": [],
+      "priceCents": 2900,
+      "quotedAt": "2026-10-22 11:07:25",
+      "productCents": 2900,
+      "packingCents": null,
+      "route": "原套餐选配",
+      "couponTitle": null,
+      "usedCoupon": false,
+      "couponSavingCents": 0,
+      "comparisons": [
+        {
+          "priceCents": 2900,
+          "quotedAt": "2026-10-22 11:07:25",
+          "productCents": 2900,
+          "packingCents": null,
+          "route": "原套餐选配",
+          "couponTitle": null,
+          "usedCoupon": false
+        },
+        {
+          "priceCents": 4250,
+          "quotedAt": "2026-10-22 11:07:25",
+          "productCents": 4250,
+          "packingCents": null,
+          "route": "同餐品单点组合",
+          "couponTitle": null,
+          "usedCoupon": false
+        }
+      ],
+      "failures": [],
+      "attempts": 2,
+      "state": "unknown-nutrition",
+      "reasons": [],
+      "deltaCents": 100,
+      "deltaKcal": null
+    },
+    {
+      "code": "3755",
+      "name": "纯牛奶",
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/20240731/product/MS_3755_320.png",
+      "from": "可乐中杯",
+      "components": [
+        {
+          "code": "1450",
+          "name": "麦香鸡",
+          "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_1450_320.png"
+        },
+        {
+          "code": "4810",
+          "name": "中薯条",
+          "image": "https://menu-img.mcd.cn/pcm/prod/menu/20250523/product/MS_G4810_320_1747877491921.png"
+        },
+        {
+          "code": "3755",
+          "name": "纯牛奶",
+          "image": "https://menu-img.mcd.cn/pcm/prod/menu/20240731/product/MS_3755_320.png"
+        }
+      ],
+      "nutrition": {
+        "energyKcal": null,
+        "protein": null,
+        "fat": null,
+        "carbohydrate": null,
+        "sodium": null,
+        "calcium": null,
+        "complete": false,
+        "missing": [
+          "纯牛奶"
+        ]
+      },
+      "newTagged": false,
+      "tags": [
+        "冷饮"
+      ],
+      "relatedActivities": [],
+      "priceCents": 2850,
+      "quotedAt": "2026-10-22 11:07:27",
+      "productCents": 2850,
+      "packingCents": null,
+      "route": "原套餐选配",
+      "couponTitle": null,
+      "usedCoupon": false,
+      "couponSavingCents": 0,
+      "comparisons": [
+        {
+          "priceCents": 2850,
+          "quotedAt": "2026-10-22 11:07:27",
+          "productCents": 2850,
+          "packingCents": null,
+          "route": "原套餐选配",
+          "couponTitle": null,
+          "usedCoupon": false
+        }
+      ],
+      "failures": [],
+      "attempts": 1,
+      "state": "unknown-nutrition",
+      "reasons": [],
+      "deltaCents": 50,
+      "deltaKcal": null
+    },
+    {
+      "code": "520688",
+      "name": "大杯鲜萃咖啡",
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/20250324/product/MS_G520688_320.gif",
+      "from": "可乐中杯",
+      "components": [
+        {
+          "code": "1450",
+          "name": "麦香鸡",
+          "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_1450_320.png"
+        },
+        {
+          "code": "4810",
+          "name": "中薯条",
+          "image": "https://menu-img.mcd.cn/pcm/prod/menu/20250523/product/MS_G4810_320_1747877491921.png"
+        },
+        {
+          "code": "520688",
+          "name": "大杯鲜萃咖啡",
+          "image": "https://menu-img.mcd.cn/pcm/prod/menu/20250324/product/MS_G520688_320.gif"
+        }
+      ],
+      "nutrition": {
+        "energyKcal": null,
+        "protein": null,
+        "fat": null,
+        "carbohydrate": null,
+        "sodium": null,
+        "calcium": null,
+        "complete": false,
+        "missing": [
+          "大杯鲜萃咖啡"
+        ]
+      },
+      "newTagged": false,
+      "tags": [],
+      "relatedActivities": [],
+      "priceCents": 2950,
+      "quotedAt": "2026-10-22 11:07:27",
+      "productCents": 2950,
+      "packingCents": null,
+      "route": "原套餐选配",
+      "couponTitle": null,
+      "usedCoupon": false,
+      "couponSavingCents": 0,
+      "comparisons": [
+        {
+          "priceCents": 2950,
+          "quotedAt": "2026-10-22 11:07:27",
+          "productCents": 2950,
+          "packingCents": null,
+          "route": "原套餐选配",
+          "couponTitle": null,
+          "usedCoupon": false
+        }
+      ],
+      "failures": [],
+      "attempts": 1,
+      "state": "unknown-nutrition",
+      "reasons": [],
+      "deltaCents": 150,
+      "deltaKcal": null
+    },
+    {
+      "code": "3060",
+      "name": "雪碧中杯",
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_G3010_320.png",
+      "from": "可乐中杯",
+      "components": [
+        {
+          "code": "1450",
+          "name": "麦香鸡",
+          "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_1450_320.png"
+        },
+        {
+          "code": "4810",
+          "name": "中薯条",
+          "image": "https://menu-img.mcd.cn/pcm/prod/menu/20250523/product/MS_G4810_320_1747877491921.png"
+        },
+        {
+          "code": "3060",
+          "name": "雪碧中杯",
+          "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_G3010_320.png"
+        }
+      ],
+      "nutrition": {
+        "energyKcal": 763,
+        "protein": 19,
+        "fat": 29,
+        "carbohydrate": 103,
+        "sodium": 925,
+        "calcium": 91,
+        "complete": true,
+        "missing": []
+      },
+      "newTagged": false,
+      "tags": [],
+      "relatedActivities": [],
+      "priceCents": 2800,
+      "quotedAt": "2026-10-22 11:07:26",
+      "productCents": 2800,
+      "packingCents": null,
+      "route": "原套餐选配",
+      "couponTitle": null,
+      "usedCoupon": false,
+      "couponSavingCents": 0,
+      "comparisons": [
+        {
+          "priceCents": 2800,
+          "quotedAt": "2026-10-22 11:07:26",
+          "productCents": 2800,
+          "packingCents": null,
+          "route": "原套餐选配",
+          "couponTitle": null,
+          "usedCoupon": false
+        }
+      ],
+      "failures": [],
+      "attempts": 1,
+      "state": "excluded",
+      "reasons": [
+        "超过热量上限"
+      ],
+      "deltaCents": 0,
+      "deltaKcal": -42
+    },
+    {
+      "code": "515281",
+      "name": "阳光柠檬红茶中杯",
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_G515280_320.png",
+      "from": "可乐中杯",
+      "components": [
+        {
+          "code": "1450",
+          "name": "麦香鸡",
+          "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_1450_320.png"
+        },
+        {
+          "code": "4810",
+          "name": "中薯条",
+          "image": "https://menu-img.mcd.cn/pcm/prod/menu/20250523/product/MS_G4810_320_1747877491921.png"
+        },
+        {
+          "code": "515281",
+          "name": "阳光柠檬红茶中杯",
+          "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_G515280_320.png"
+        }
+      ],
+      "nutrition": {
+        "energyKcal": 775,
+        "protein": 19,
+        "fat": 29,
+        "carbohydrate": 106,
+        "sodium": 913,
+        "calcium": 91,
+        "complete": true,
+        "missing": []
+      },
+      "newTagged": false,
+      "tags": [],
+      "relatedActivities": [],
+      "priceCents": 2800,
+      "quotedAt": "2026-10-22 11:07:26",
+      "productCents": 2800,
+      "packingCents": null,
+      "route": "原套餐选配",
+      "couponTitle": null,
+      "usedCoupon": false,
+      "couponSavingCents": 0,
+      "comparisons": [
+        {
+          "priceCents": 2800,
+          "quotedAt": "2026-10-22 11:07:26",
+          "productCents": 2800,
+          "packingCents": null,
+          "route": "原套餐选配",
+          "couponTitle": null,
+          "usedCoupon": false
+        }
+      ],
+      "failures": [],
+      "attempts": 1,
+      "state": "excluded",
+      "reasons": [
+        "超过热量上限"
+      ],
+      "deltaCents": 0,
+      "deltaKcal": -30
+    },
+    {
+      "code": "521589",
+      "name": "草莓风味奶昔",
+      "image": null,
+      "from": "可乐中杯",
+      "components": [
+        {
+          "code": "1450",
+          "name": "麦香鸡",
+          "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_1450_320.png"
+        },
+        {
+          "code": "4810",
+          "name": "中薯条",
+          "image": "https://menu-img.mcd.cn/pcm/prod/menu/20250523/product/MS_G4810_320_1747877491921.png"
+        },
+        {
+          "code": "521589",
+          "name": "草莓风味奶昔",
+          "image": null
+        }
+      ],
+      "nutrition": {
+        "energyKcal": null,
+        "protein": null,
+        "fat": null,
+        "carbohydrate": null,
+        "sodium": null,
+        "calcium": null,
+        "complete": false,
+        "missing": [
+          "草莓风味奶昔"
+        ]
+      },
+      "newTagged": false,
+      "tags": [],
+      "relatedActivities": [],
+      "priceCents": 3600,
+      "quotedAt": "2026-10-22 11:07:26",
+      "productCents": 3600,
+      "packingCents": null,
+      "route": "原套餐选配",
+      "couponTitle": null,
+      "usedCoupon": false,
+      "couponSavingCents": 0,
+      "comparisons": [
+        {
+          "priceCents": 3600,
+          "quotedAt": "2026-10-22 11:07:26",
+          "productCents": 3600,
+          "packingCents": null,
+          "route": "原套餐选配",
+          "couponTitle": null,
+          "usedCoupon": false
+        }
+      ],
+      "failures": [],
+      "attempts": 1,
+      "state": "excluded",
+      "reasons": [
+        "超过额外预算",
+        "超过整餐预算"
+      ],
+      "deltaCents": 800,
+      "deltaKcal": null
+    },
+    {
+      "code": "521588",
+      "name": "香草风味奶昔",
+      "image": null,
+      "from": "可乐中杯",
+      "components": [
+        {
+          "code": "1450",
+          "name": "麦香鸡",
+          "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_1450_320.png"
+        },
+        {
+          "code": "4810",
+          "name": "中薯条",
+          "image": "https://menu-img.mcd.cn/pcm/prod/menu/20250523/product/MS_G4810_320_1747877491921.png"
+        },
+        {
+          "code": "521588",
+          "name": "香草风味奶昔",
+          "image": null
+        }
+      ],
+      "nutrition": {
+        "energyKcal": null,
+        "protein": null,
+        "fat": null,
+        "carbohydrate": null,
+        "sodium": null,
+        "calcium": null,
+        "complete": false,
+        "missing": [
+          "香草风味奶昔"
+        ]
+      },
+      "newTagged": false,
+      "tags": [],
+      "relatedActivities": [],
+      "priceCents": 3600,
+      "quotedAt": "2026-10-22 11:07:25",
+      "productCents": 3600,
+      "packingCents": null,
+      "route": "原套餐选配",
+      "couponTitle": null,
+      "usedCoupon": false,
+      "couponSavingCents": 0,
+      "comparisons": [
+        {
+          "priceCents": 3600,
+          "quotedAt": "2026-10-22 11:07:25",
+          "productCents": 3600,
+          "packingCents": null,
+          "route": "原套餐选配",
+          "couponTitle": null,
+          "usedCoupon": false
+        }
+      ],
+      "failures": [],
+      "attempts": 1,
+      "state": "excluded",
+      "reasons": [
+        "超过额外预算",
+        "超过整餐预算"
+      ],
+      "deltaCents": 800,
+      "deltaKcal": null
+    },
+    {
+      "code": "507411",
+      "name": "麦咖啡™冰美式中杯",
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260422/product/MS_G507374_320.gif",
+      "from": "可乐中杯",
+      "components": [
+        {
+          "code": "1450",
+          "name": "麦香鸡",
+          "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_1450_320.png"
+        },
+        {
+          "code": "4810",
+          "name": "中薯条",
+          "image": "https://menu-img.mcd.cn/pcm/prod/menu/20250523/product/MS_G4810_320_1747877491921.png"
+        },
+        {
+          "code": "507411",
+          "name": "麦咖啡™冰美式中杯",
+          "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260422/product/MS_G507374_320.gif"
+        }
+      ],
+      "nutrition": {
+        "energyKcal": null,
+        "protein": null,
+        "fat": null,
+        "carbohydrate": null,
+        "sodium": null,
+        "calcium": null,
+        "complete": false,
+        "missing": [
+          "麦咖啡™冰美式中杯"
+        ]
+      },
+      "newTagged": false,
+      "tags": [
+        "限定特惠"
+      ],
+      "relatedActivities": [],
+      "priceCents": 3700,
+      "quotedAt": "2026-10-22 11:07:27",
+      "productCents": 3700,
+      "packingCents": null,
+      "route": "原套餐选配",
+      "couponTitle": null,
+      "usedCoupon": false,
+      "couponSavingCents": 0,
+      "comparisons": [
+        {
+          "priceCents": 3700,
+          "quotedAt": "2026-10-22 11:07:27",
+          "productCents": 3700,
+          "packingCents": null,
+          "route": "原套餐选配",
+          "couponTitle": null,
+          "usedCoupon": false
+        },
+        {
+          "priceCents": 4240,
+          "quotedAt": "2026-10-22 11:07:27",
+          "productCents": 4240,
+          "packingCents": null,
+          "route": "同餐品单点组合",
+          "couponTitle": null,
+          "usedCoupon": false
+        }
+      ],
+      "failures": [],
+      "attempts": 2,
+      "state": "excluded",
+      "reasons": [
+        "超过额外预算",
+        "超过整餐预算"
+      ],
+      "deltaCents": 900,
+      "deltaKcal": null
+    },
+    {
+      "code": "507368",
+      "name": "麦咖啡™热美式中杯",
+      "image": null,
+      "from": "可乐中杯",
+      "components": [
+        {
+          "code": "1450",
+          "name": "麦香鸡",
+          "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_1450_320.png"
+        },
+        {
+          "code": "4810",
+          "name": "中薯条",
+          "image": "https://menu-img.mcd.cn/pcm/prod/menu/20250523/product/MS_G4810_320_1747877491921.png"
+        },
+        {
+          "code": "507368",
+          "name": "麦咖啡™热美式中杯",
+          "image": null
+        }
+      ],
+      "nutrition": {
+        "energyKcal": null,
+        "protein": null,
+        "fat": null,
+        "carbohydrate": null,
+        "sodium": null,
+        "calcium": null,
+        "complete": false,
+        "missing": [
+          "麦咖啡™热美式中杯"
+        ]
+      },
+      "newTagged": false,
+      "tags": [],
+      "relatedActivities": [],
+      "priceCents": 3700,
+      "quotedAt": "2026-10-22 11:07:27",
+      "productCents": 3700,
+      "packingCents": null,
+      "route": "原套餐选配",
+      "couponTitle": null,
+      "usedCoupon": false,
+      "couponSavingCents": 0,
+      "comparisons": [
+        {
+          "priceCents": 3700,
+          "quotedAt": "2026-10-22 11:07:27",
+          "productCents": 3700,
+          "packingCents": null,
+          "route": "原套餐选配",
+          "couponTitle": null,
+          "usedCoupon": false
+        }
+      ],
+      "failures": [],
+      "attempts": 1,
+      "state": "excluded",
+      "reasons": [
+        "超过额外预算",
+        "超过整餐预算"
+      ],
+      "deltaCents": 900,
+      "deltaKcal": null
+    },
+    {
+      "code": "507409",
+      "name": "麦咖啡™冰奶铁中杯",
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260422/product/MS_G507372_320.gif",
+      "from": "可乐中杯",
+      "components": [
+        {
+          "code": "1450",
+          "name": "麦香鸡",
+          "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_1450_320.png"
+        },
+        {
+          "code": "4810",
+          "name": "中薯条",
+          "image": "https://menu-img.mcd.cn/pcm/prod/menu/20250523/product/MS_G4810_320_1747877491921.png"
+        },
+        {
+          "code": "507409",
+          "name": "麦咖啡™冰奶铁中杯",
+          "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260422/product/MS_G507372_320.gif"
+        }
+      ],
+      "nutrition": {
+        "energyKcal": null,
+        "protein": null,
+        "fat": null,
+        "carbohydrate": null,
+        "sodium": null,
+        "calcium": null,
+        "complete": false,
+        "missing": [
+          "麦咖啡™冰奶铁中杯"
+        ]
+      },
+      "newTagged": false,
+      "tags": [
+        "限定特惠",
+        "更奶更浓"
+      ],
+      "relatedActivities": [],
+      "priceCents": 3900,
+      "quotedAt": "2026-10-22 11:07:28",
+      "productCents": 3900,
+      "packingCents": null,
+      "route": "原套餐选配",
+      "couponTitle": null,
+      "usedCoupon": false,
+      "couponSavingCents": 0,
+      "comparisons": [
+        {
+          "priceCents": 3900,
+          "quotedAt": "2026-10-22 11:07:28",
+          "productCents": 3900,
+          "packingCents": null,
+          "route": "原套餐选配",
+          "couponTitle": null,
+          "usedCoupon": false
+        },
+        {
+          "priceCents": 4440,
+          "quotedAt": "2026-10-22 11:07:28",
+          "productCents": 4440,
+          "packingCents": null,
+          "route": "同餐品单点组合",
+          "couponTitle": null,
+          "usedCoupon": false
+        }
+      ],
+      "failures": [],
+      "attempts": 2,
+      "state": "excluded",
+      "reasons": [
+        "超过额外预算",
+        "超过整餐预算"
+      ],
+      "deltaCents": 1100,
+      "deltaKcal": null
+    },
+    {
+      "code": "515945",
+      "name": "热浓浓黑巧中杯",
+      "image": null,
+      "from": "可乐中杯",
+      "components": [
+        {
+          "code": "1450",
+          "name": "麦香鸡",
+          "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_1450_320.png"
+        },
+        {
+          "code": "4810",
+          "name": "中薯条",
+          "image": "https://menu-img.mcd.cn/pcm/prod/menu/20250523/product/MS_G4810_320_1747877491921.png"
+        },
+        {
+          "code": "515945",
+          "name": "热浓浓黑巧中杯",
+          "image": null
+        }
+      ],
+      "nutrition": {
+        "energyKcal": 834,
+        "protein": 29,
+        "fat": 37,
+        "carbohydrate": 92,
+        "sodium": 997,
+        "calcium": 410,
+        "complete": true,
+        "missing": []
+      },
+      "newTagged": false,
+      "tags": [],
+      "relatedActivities": [],
+      "priceCents": 3900,
+      "quotedAt": "2026-10-22 11:07:26",
+      "productCents": 3900,
+      "packingCents": null,
+      "route": "原套餐选配",
+      "couponTitle": null,
+      "usedCoupon": false,
+      "couponSavingCents": 0,
+      "comparisons": [
+        {
+          "priceCents": 3900,
+          "quotedAt": "2026-10-22 11:07:26",
+          "productCents": 3900,
+          "packingCents": null,
+          "route": "原套餐选配",
+          "couponTitle": null,
+          "usedCoupon": false
+        }
+      ],
+      "failures": [],
+      "attempts": 1,
+      "state": "excluded",
+      "reasons": [
+        "超过额外预算",
+        "超过整餐预算",
+        "超过热量上限"
+      ],
+      "deltaCents": 1100,
+      "deltaKcal": 29
+    }
+  ],
+  "recommended": "3071",
+  "constraints": {
+    "maxExtraCents": 500,
+    "maxTotalCents": 3500,
+    "maxKcal": 700
+  },
+  "changedRound": "3",
+  "locked": [
+    "麦香鸡",
+    "中薯条"
+  ],
+  "couponCount": 2,
+  "activities": [
+    {
+      "date": "2026-10-20",
+      "status": "往期",
+      "title": "麦当劳 X PEACEMINUSONE",
+      "text": "GD同款联名复古棒球帽\n任意餐品消费加39.9元即可得\n经典红黄配色搭配复古轮廓，MV同款灵感重现\n更有标志性小雏菊刺绣图案点缀\n10月8日10:45开售\n更有APP专享积分抢先购10:40开抢\n与GD一起探索潮流新篇章🖤"
+    },
+    {
+      "date": "2026-10-21",
+      "status": "往期",
+      "title": "麦当劳 X PEACEMINUSONE",
+      "text": "周边第二弹——联名徽章正式发售\n任意餐品消费加39.9元即可得\n集结MCD爱心、小雏菊和经典薯条元素🍟\n一套三枚🖤限量珍藏\n10月15日10:45开售\n更有APP专享积分抢先购10:40开抢"
+    },
+    {
+      "date": "2026-10-22",
+      "status": "今日",
+      "title": "麦当劳「我就喜欢」限定丝巾正式开售🔥",
+      "text": "丝巾搭配棒球帽的潮流谁懂😎\n任意餐品消费加 39.9 元即可得\n颈间、包袋、手腕、头饰一巾多玩🤔\n叠搭联名棒球帽&徽章随心玩出专属潮流造型✨\n10月22日10:45开售\n更有APP专享积分抢先购10:40开抢\nget时尚icon同款潮流造型"
+    },
+    {
+      "date": "2026-10-22",
+      "status": "今日",
+      "title": "韩式风味蘸酱上新❤️就「酱」心有所「薯」",
+      "text": "🆕韩式辣椒黄油风味酱\n韩式辣酱碰撞青梅，裹挟黄油香气\n鸡薯双全盒仅需15.9元起✨getGD同款花式比心\n🆕韩式烟熏芝士风味酱\n浓郁芝香邂逅韩式香辛风味，烟熏香气层层释放\n蘸酱炸鸡仅需11.9元起🍗\n炸鸡薯饼蘸酱我全都喜欢！\n10月8日 10:30起正式开售⏰"
+    },
+    {
+      "date": "2026-10-22",
+      "status": "今日",
+      "title": "麦当劳 X PEACEMINUSONE",
+      "text": "周边第二弹——联名徽章正式发售\n任意餐品消费加39.9元即可得\n集结MCD爱心、小雏菊和经典薯条元素🍟\n一套三枚🖤限量珍藏\n10月15日10:45开售\n更有APP专享积分抢先购10:40开抢"
+    },
+    {
+      "date": "2026-10-22",
+      "status": "今日",
+      "title": "麦当劳 X PEACEMINUSONE",
+      "text": "GD同款联名复古棒球帽\n任意餐品消费加39.9元即可得\n经典红黄配色搭配复古轮廓，MV同款灵感重现\n更有标志性小雏菊刺绣图案点缀\n10月8日10:45开售\n更有APP专享积分抢先购10:40开抢\n与GD一起探索潮流新篇章🖤"
+    },
+    {
+      "date": "2026-10-22",
+      "status": "今日",
+      "title": "麦当劳联动G-DRAGON ",
+      "text": "带来韩式风味系列新品❗️\n龙焰鸡腿堡三件套 26.9 元起即刻开吃🍔\n韩式辣酱搭配酥脆多汁鸡腿排🤤\n还可升级29.9元龙焰芝士棒鸡腿堡三件套，\n两根马苏里拉拉丝芝士条，热时双倍拉丝更过瘾🧀\n10月8日 10:30 准时开售⏰You lovin' it？"
+    },
+    {
+      "date": "2026-10-22",
+      "status": "今日",
+      "title": "🫐一口爆汁！蓝莓爆爆珠麦旋风上新",
+      "text": "🫐蓝莓爆爆珠麦旋风上新！\n💜清甜蓝莓碰上醇厚奶香，酸甜清爽。\n💥真实蓝莓原浆x爆爆珠，颗颗爆汁好惊喜。\n😋绵密冰淇淋撞上弹爽口感，莓好滋味层层爆开！\n还在等什么，马上尝新~"
+    },
+    {
+      "date": "2026-10-22",
+      "status": "今日",
+      "title": "早餐爆款回归，快来pick你的厚松饼堡！📣",
+      "text": "返工别紧张，厚松饼堡让你松软一下🫵\n🥞甜甜松饼，软软口感\n🍁经典枫糖风味和浓郁巧克力味两款可选🍫\n10月8日起，指定套餐可享早餐卡6折优惠\n3件套到手只要15元起，快来优惠吃"
+    },
+    {
+      "date": "2026-10-22",
+      "status": "今日",
+      "title": "🍫麦咖啡13.9r浓浓黑巧来啦！",
+      "text": "地道浓醇黑巧，风味浓郁醇厚\n200目精细研磨工艺，触感丝滑如绒\n戳下方，速来解锁！"
+    },
+    {
+      "date": "2026-10-22",
+      "status": "今日",
+      "title": "麦咖啡一早现磨🥳元气早餐震撼来袭！",
+      "text": "☕甄选 2024IIAC 国际咖啡品鉴大赛“金奖“咖啡豆\n🥪多款人气早餐主食随心挑选，满足你的多种需求\n✨清晨能量一键配齐，14.9元起，开启你的元气一天"
+    },
+    {
+      "date": "2026-10-22",
+      "status": "今日",
+      "title": "🩶灰白撞色，灰焰圆筒酷爽登场",
+      "text": "🩶灰焰圆筒酷爽上新！\n🍦浓郁香草味碰上酷灰脆筒，灰白撞色吸睛。\n✨入口绵密丝滑，一口咬下筒壳咔嚓酥脆。\n😋绵密与香脆层层交织，一口解锁甜酷反差！\n还在等什么，马上尝新~"
+    },
+    {
+      "date": "2026-10-22",
+      "status": "今日",
+      "title": "学生专属！49元150天麦金学期卡💳",
+      "text": "💰仅0.33元/天，到手150天吃麦特权！\n5️⃣折起吃超值四件套、6折吃早餐\n🛵每日两次满额免配，9.9元麦咖啡\n🦉开卡还送多邻国月卡，美味和学习一步到位\n👛新学期钱包不吃紧，开心吃麦快乐学习！"
+    },
+    {
+      "date": "2026-10-22",
+      "status": "今日",
+      "title": "过家家派对上线，快来一起解锁梦想职业",
+      "text": "过家家派对就要开始啦!\n萌娃cosplay梦想职业，精美职业服带回家\nDIY 创意手工，想象力在指尖自由绽放\n9月9日到店解锁过家家派对\n粉红姐姐带你玩转麦当劳，开启童趣一天~"
+    },
+    {
+      "date": "2026-10-22",
+      "status": "今日",
+      "title": "“韩”风刮到了四件套~龙焰鸡腿堡来袭！",
+      "text": "🍔麦金卡点「龙焰鸡腿堡」四件套29元起\n🍗韩式辣酱碰撞青梅黄油，爆脆鸡腿排多汁裹酱！\n✨一张麦金卡包揽全天吃麦特权\n6折早餐、9.9元麦咖啡、满额免配统统安排\n😋快来打卡美味，这场韩式盛宴等你加入！"
+    },
+    {
+      "date": "2026-10-22",
+      "status": "今日",
+      "title": "乐享90分钟高质量亲子时间",
+      "text": "打造高质量陪伴时光🎊\n9本热门书籍且每月更新！\n更有开心乐园餐+随机玩具一份🎁\n好吃又好玩！快报名参加吧~"
+    },
+    {
+      "date": "2026-10-22",
+      "status": "今日",
+      "title": "快来一起参加麦麦派对吧！",
+      "text": "遛娃好去处🎉麦当劳趣读派对！\n6大环节，趣味互动✨\n好吃又好玩，快乐持续加倍！\n👇一起领取“读书小达人“证书吧~"
+    },
+    {
+      "date": "2026-10-23",
+      "status": "预告",
+      "title": "学生专属！49元150天麦金学期卡💳",
+      "text": "💰仅0.33元/天，到手150天吃麦特权！\n5️⃣折起吃超值四件套、6折吃早餐\n🛵每日两次满额免配，9.9元麦咖啡\n🦉开卡还送多邻国月卡，美味和学习一步到位\n👛新学期钱包不吃紧，开心吃麦快乐学习！"
+    },
+    {
+      "date": "2026-10-24",
+      "status": "预告",
+      "title": "韩式风味蘸酱上新❤️就「酱」心有所「薯」",
+      "text": "🆕韩式辣椒黄油风味酱\n韩式辣酱碰撞青梅，裹挟黄油香气\n鸡薯双全盒仅需15.9元起✨getGD同款花式比心\n🆕韩式烟熏芝士风味酱\n浓郁芝香邂逅韩式香辛风味，烟熏香气层层释放\n蘸酱炸鸡仅需11.9元起🍗\n炸鸡薯饼蘸酱我全都喜欢！\n10月8日 10:30起正式开售⏰"
+    },
+    {
+      "date": "2026-10-25",
+      "status": "预告",
+      "title": "麦当劳联动G-DRAGON ",
+      "text": "带来韩式风味系列新品❗️\n龙焰鸡腿堡三件套 26.9 元起即刻开吃🍔\n韩式辣酱搭配酥脆多汁鸡腿排🤤\n还可升级29.9元龙焰芝士棒鸡腿堡三件套，\n两根马苏里拉拉丝芝士条，热时双倍拉丝更过瘾🧀\n10月8日 10:30 准时开售⏰You lovin' it？"
+    },
+    {
+      "date": "2026-10-28",
+      "status": "预告",
+      "title": "“韩”风刮到了四件套~龙焰鸡腿堡来袭！",
+      "text": "🍔麦金卡点「龙焰鸡腿堡」四件套29元起\n🍗韩式辣酱碰撞青梅黄油，爆脆鸡腿排多汁裹酱！\n✨一张麦金卡包揽全天吃麦特权\n6折早餐、9.9元麦咖啡、满额免配统统安排\n😋快来打卡美味，这场韩式盛宴等你加入！"
+    },
+    {
+      "date": "2026-10-29",
+      "status": "预告",
+      "title": "早餐爆款回归，快来pick你的厚松饼堡！📣",
+      "text": "返工别紧张，厚松饼堡让你松软一下🫵\n🥞甜甜松饼，软软口感\n🍁经典枫糖风味和浓郁巧克力味两款可选🍫\n10月8日起，指定套餐可享早餐卡6折优惠\n3件套到手只要15元起，快来优惠吃"
+    },
+    {
+      "date": "2026-10-30",
+      "status": "预告",
+      "title": "🍫麦咖啡13.9r浓浓黑巧来啦！",
+      "text": "地道浓醇黑巧，风味浓郁醇厚\n200目精细研磨工艺，触感丝滑如绒\n戳下方，速来解锁！"
+    },
+    {
+      "date": "2026-11-01",
+      "status": "预告",
+      "title": "🩶灰白撞色，灰焰圆筒酷爽登场",
+      "text": "🩶灰焰圆筒酷爽上新！\n🍦浓郁香草味碰上酷灰脆筒，灰白撞色吸睛。\n✨入口绵密丝滑，一口咬下筒壳咔嚓酥脆。\n😋绵密与香脆层层交织，一口解锁甜酷反差！\n还在等什么，马上尝新~"
+    },
+    {
+      "date": "2026-11-02",
+      "status": "预告",
+      "title": "麦咖啡一早现磨🥳元气早餐震撼来袭！",
+      "text": "☕甄选 2024IIAC 国际咖啡品鉴大赛“金奖“咖啡豆\n🥪多款人气早餐主食随心挑选，满足你的多种需求\n✨清晨能量一键配齐，14.9元起，开启你的元气一天"
+    },
+    {
+      "date": "2026-11-03",
+      "status": "预告",
+      "title": "🫐一口爆汁！蓝莓爆爆珠麦旋风上新",
+      "text": "🫐蓝莓爆爆珠麦旋风上新！\n💜清甜蓝莓碰上醇厚奶香，酸甜清爽。\n💥真实蓝莓原浆x爆爆珠，颗颗爆汁好惊喜。\n😋绵密冰淇淋撞上弹爽口感，莓好滋味层层爆开！\n还在等什么，马上尝新~"
+    }
+  ],
+  "warnings": [],
+  "coverage": {
+    "evaluated": 12,
+    "available": 25,
+    "maxCouponsPerRoute": 6,
+    "scope": "当前套餐的单项替换；验证通过的同餐品单点路径及至多 6 个单券方案。非全菜单穷举，不保证全局最低。"
+  },
+  "audit": [
+    {
+      "tool": "query-nearby-stores",
+      "ok": true,
+      "elapsedMs": 268,
+      "at": "2026-10-22T03:04:06.572Z"
+    },
+    {
+      "tool": "list-nutrition-foods",
+      "ok": true,
+      "elapsedMs": 118,
+      "at": "2026-10-22T03:04:07.109Z"
+    },
+    {
+      "tool": "now-time-info",
+      "ok": true,
+      "elapsedMs": 146,
+      "at": "2026-10-22T03:04:07.138Z"
+    },
+    {
+      "tool": "query-store-coupons",
+      "ok": true,
+      "elapsedMs": 201,
+      "at": "2026-10-22T03:04:07.192Z"
+    },
+    {
+      "tool": "campaign-calendar",
+      "ok": true,
+      "elapsedMs": 325,
+      "at": "2026-10-22T03:04:07.316Z"
+    },
+    {
+      "tool": "query-meals",
+      "ok": true,
+      "elapsedMs": 340,
+      "at": "2026-10-22T03:04:07.330Z"
+    },
+    {
+      "tool": "query-meal-detail",
+      "ok": true,
+      "elapsedMs": 143,
+      "at": "2026-10-22T03:04:07.994Z"
+    },
+    {
+      "tool": "query-meal-detail",
+      "ok": true,
+      "elapsedMs": 96,
+      "at": "2026-10-22T03:04:08.166Z"
+    },
+    {
+      "tool": "query-meal-detail",
+      "ok": true,
+      "elapsedMs": 1746,
+      "at": "2026-10-22T03:04:09.912Z"
+    },
+    {
+      "tool": "query-meal-detail",
+      "ok": true,
+      "elapsedMs": 127,
+      "at": "2026-10-22T03:04:10.039Z"
+    },
+    {
+      "tool": "calculate-price",
+      "ok": true,
+      "elapsedMs": 263,
+      "at": "2026-10-22T03:04:10.303Z"
+    },
+    {
+      "tool": "calculate-price",
+      "ok": true,
+      "elapsedMs": 174,
+      "at": "2026-10-22T03:04:10.477Z"
+    },
+    {
+      "tool": "calculate-price",
+      "ok": true,
+      "elapsedMs": 151,
+      "at": "2026-10-22T03:04:10.628Z"
+    },
+    {
+      "tool": "query-meal-detail",
+      "ok": true,
+      "elapsedMs": 87,
+      "at": "2026-10-22T03:04:10.715Z"
+    },
+    {
+      "tool": "calculate-price",
+      "ok": true,
+      "elapsedMs": 168,
+      "at": "2026-10-22T03:04:10.883Z"
+    },
+    {
+      "tool": "calculate-price",
+      "ok": true,
+      "elapsedMs": 154,
+      "at": "2026-10-22T03:04:11.037Z"
+    },
+    {
+      "tool": "query-meal-detail",
+      "ok": true,
+      "elapsedMs": 101,
+      "at": "2026-10-22T03:04:11.139Z"
+    },
+    {
+      "tool": "calculate-price",
+      "ok": true,
+      "elapsedMs": 142,
+      "at": "2026-10-22T03:04:11.281Z"
+    },
+    {
+      "tool": "calculate-price",
+      "ok": true,
+      "elapsedMs": 146,
+      "at": "2026-10-22T03:04:11.427Z"
+    },
+    {
+      "tool": "calculate-price",
+      "ok": true,
+      "elapsedMs": 135,
+      "at": "2026-10-22T03:04:11.562Z"
+    },
+    {
+      "tool": "query-meal-detail",
+      "ok": true,
+      "elapsedMs": 97,
+      "at": "2026-10-22T03:04:11.660Z"
+    },
+    {
+      "tool": "calculate-price",
+      "ok": true,
+      "elapsedMs": 143,
+      "at": "2026-10-22T03:04:11.804Z"
+    },
+    {
+      "tool": "calculate-price",
+      "ok": true,
+      "elapsedMs": 137,
+      "at": "2026-10-22T03:04:11.941Z"
+    },
+    {
+      "tool": "calculate-price",
+      "ok": true,
+      "elapsedMs": 133,
+      "at": "2026-10-22T03:04:12.075Z"
+    },
+    {
+      "tool": "query-nearby-stores",
+      "ok": true,
+      "elapsedMs": 882,
+      "at": "2026-10-22T03:06:47.964Z"
+    },
+    {
+      "tool": "list-nutrition-foods",
+      "ok": true,
+      "elapsedMs": 198,
+      "at": "2026-10-22T03:06:48.624Z"
+    },
+    {
+      "tool": "query-store-coupons",
+      "ok": true,
+      "elapsedMs": 207,
+      "at": "2026-10-22T03:06:48.634Z"
+    },
+    {
+      "tool": "now-time-info",
+      "ok": true,
+      "elapsedMs": 234,
+      "at": "2026-10-22T03:06:48.661Z"
+    },
+    {
+      "tool": "query-meals",
+      "ok": true,
+      "elapsedMs": 296,
+      "at": "2026-10-22T03:06:48.722Z"
+    },
+    {
+      "tool": "campaign-calendar",
+      "ok": true,
+      "elapsedMs": 341,
+      "at": "2026-10-22T03:06:48.767Z"
+    },
+    {
+      "tool": "query-meal-detail",
+      "ok": true,
+      "elapsedMs": 233,
+      "at": "2026-10-22T03:06:49.495Z"
+    },
+    {
+      "tool": "query-meal-detail",
+      "ok": true,
+      "elapsedMs": 94,
+      "at": "2026-10-22T03:06:49.951Z"
+    },
+    {
+      "tool": "query-meal-detail",
+      "ok": true,
+      "elapsedMs": 110,
+      "at": "2026-10-22T03:06:50.061Z"
+    },
+    {
+      "tool": "query-meal-detail",
+      "ok": true,
+      "elapsedMs": 96,
+      "at": "2026-10-22T03:06:50.157Z"
+    },
+    {
+      "tool": "calculate-price",
+      "ok": true,
+      "elapsedMs": 149,
+      "at": "2026-10-22T03:06:50.306Z"
+    },
+    {
+      "tool": "calculate-price",
+      "ok": true,
+      "elapsedMs": 152,
+      "at": "2026-10-22T03:06:50.458Z"
+    },
+    {
+      "tool": "calculate-price",
+      "ok": true,
+      "elapsedMs": 140,
+      "at": "2026-10-22T03:06:50.598Z"
+    },
+    {
+      "tool": "query-meal-detail",
+      "ok": true,
+      "elapsedMs": 120,
+      "at": "2026-10-22T03:06:50.719Z"
+    },
+    {
+      "tool": "calculate-price",
+      "ok": true,
+      "elapsedMs": 153,
+      "at": "2026-10-22T03:06:50.872Z"
+    },
+    {
+      "tool": "calculate-price",
+      "ok": true,
+      "elapsedMs": 152,
+      "at": "2026-10-22T03:06:51.024Z"
+    },
+    {
+      "tool": "query-meal-detail",
+      "ok": true,
+      "elapsedMs": 96,
+      "at": "2026-10-22T03:06:51.121Z"
+    },
+    {
+      "tool": "calculate-price",
+      "ok": true,
+      "elapsedMs": 147,
+      "at": "2026-10-22T03:06:51.268Z"
+    },
+    {
+      "tool": "calculate-price",
+      "ok": true,
+      "elapsedMs": 376,
+      "at": "2026-10-22T03:06:51.644Z"
+    },
+    {
+      "tool": "calculate-price",
+      "ok": true,
+      "elapsedMs": 133,
+      "at": "2026-10-22T03:06:51.778Z"
+    },
+    {
+      "tool": "query-meal-detail",
+      "ok": true,
+      "elapsedMs": 93,
+      "at": "2026-10-22T03:06:51.871Z"
+    },
+    {
+      "tool": "calculate-price",
+      "ok": true,
+      "elapsedMs": 172,
+      "at": "2026-10-22T03:06:52.043Z"
+    },
+    {
+      "tool": "calculate-price",
+      "ok": true,
+      "elapsedMs": 131,
+      "at": "2026-10-22T03:06:52.174Z"
+    },
+    {
+      "tool": "calculate-price",
+      "ok": true,
+      "elapsedMs": 131,
+      "at": "2026-10-22T03:06:52.305Z"
+    },
+    {
+      "tool": "calculate-price",
+      "ok": true,
+      "elapsedMs": 258,
+      "at": "2026-10-22T03:07:23.062Z"
+    },
+    {
+      "tool": "calculate-price",
+      "ok": true,
+      "elapsedMs": 263,
+      "at": "2026-10-22T03:07:23.325Z"
+    },
+    {
+      "tool": "query-meal-detail",
+      "ok": true,
+      "elapsedMs": 115,
+      "at": "2026-10-22T03:07:23.441Z"
+    },
+    {
+      "tool": "calculate-price",
+      "ok": true,
+      "elapsedMs": 195,
+      "at": "2026-10-22T03:07:23.636Z"
+    },
+    {
+      "tool": "calculate-price",
+      "ok": true,
+      "elapsedMs": 133,
+      "at": "2026-10-22T03:07:23.769Z"
+    },
+    {
+      "tool": "calculate-price",
+      "ok": true,
+      "elapsedMs": 135,
+      "at": "2026-10-22T03:07:23.905Z"
+    },
+    {
+      "tool": "calculate-price",
+      "ok": true,
+      "elapsedMs": 142,
+      "at": "2026-10-22T03:07:24.048Z"
+    },
+    {
+      "tool": "calculate-price",
+      "ok": true,
+      "elapsedMs": 155,
+      "at": "2026-10-22T03:07:24.203Z"
+    },
+    {
+      "tool": "calculate-price",
+      "ok": true,
+      "elapsedMs": 145,
+      "at": "2026-10-22T03:07:24.348Z"
+    },
+    {
+      "tool": "query-meal-detail",
+      "ok": true,
+      "elapsedMs": 91,
+      "at": "2026-10-22T03:07:24.439Z"
+    },
+    {
+      "tool": "calculate-price",
+      "ok": true,
+      "elapsedMs": 136,
+      "at": "2026-10-22T03:07:24.575Z"
+    },
+    {
+      "tool": "query-meal-detail",
+      "ok": true,
+      "elapsedMs": 88,
+      "at": "2026-10-22T03:07:24.663Z"
+    },
+    {
+      "tool": "calculate-price",
+      "ok": true,
+      "elapsedMs": 151,
+      "at": "2026-10-22T03:07:24.815Z"
+    },
+    {
+      "tool": "query-meal-detail",
+      "ok": true,
+      "elapsedMs": 82,
+      "at": "2026-10-22T03:07:24.897Z"
+    },
+    {
+      "tool": "calculate-price",
+      "ok": true,
+      "elapsedMs": 154,
+      "at": "2026-10-22T03:07:25.051Z"
+    },
+    {
+      "tool": "query-meal-detail",
+      "ok": true,
+      "elapsedMs": 89,
+      "at": "2026-10-22T03:07:25.141Z"
+    },
+    {
+      "tool": "calculate-price",
+      "ok": true,
+      "elapsedMs": 159,
+      "at": "2026-10-22T03:07:25.300Z"
+    },
+    {
+      "tool": "calculate-price",
+      "ok": true,
+      "elapsedMs": 145,
+      "at": "2026-10-22T03:07:25.445Z"
+    },
+    {
+      "tool": "query-meal-detail",
+      "ok": true,
+      "elapsedMs": 177,
+      "at": "2026-10-22T03:07:25.622Z"
+    },
+    {
+      "tool": "calculate-price",
+      "ok": true,
+      "elapsedMs": 140,
+      "at": "2026-10-22T03:07:25.762Z"
+    },
+    {
+      "tool": "calculate-price",
+      "ok": true,
+      "elapsedMs": 147,
+      "at": "2026-10-22T03:07:25.909Z"
+    },
+    {
+      "tool": "query-meal-detail",
+      "ok": true,
+      "elapsedMs": 96,
+      "at": "2026-10-22T03:07:26.005Z"
+    },
+    {
+      "tool": "calculate-price",
+      "ok": true,
+      "elapsedMs": 145,
+      "at": "2026-10-22T03:07:26.150Z"
+    },
+    {
+      "tool": "calculate-price",
+      "ok": true,
+      "elapsedMs": 116,
+      "at": "2026-10-22T03:07:26.266Z"
+    }
+  ],
+  "snapshotNotice": "2026-10-22 手机端当前时段真实查询记录；非未来价格。audit 为该测试会话累计 72 次工具调用，含两次小食与一次饮料流程。"
+}

@@ -1,0 +1,874 @@
+{
+  "mode": "historical",
+  "context": {
+    "storeCode": "1450713",
+    "orderType": 1,
+    "beType": 1,
+    "reservationDate": "2026-10-22 12:00"
+  },
+  "createdAt": "2026-10-22T02:49:38.296Z",
+  "base": {
+    "name": "麦辣鸡腿汉堡三件套",
+    "components": [
+      {
+        "code": "1440",
+        "name": "麦辣鸡腿汉堡",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260325/product/MS_1440_320.png"
+      },
+      {
+        "code": "4810",
+        "name": "中薯条",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/20250523/product/MS_G4810_320_1747877491921.png"
+      },
+      {
+        "code": "3050",
+        "name": "可乐中杯",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_9900008751_320.gif"
+      }
+    ],
+    "nutrition": {
+      "energyKcal": 921,
+      "protein": 28,
+      "fat": 36,
+      "carbohydrate": 116,
+      "sodium": 1373,
+      "calcium": 182,
+      "complete": true,
+      "missing": []
+    },
+    "priceCents": 3350,
+    "quotedAt": "2026-10-22 10:49:37",
+    "productCents": 3350,
+    "packingCents": null,
+    "route": "原套餐选配",
+    "couponTitle": null,
+    "usedCoupon": false,
+    "couponSavingCents": 0,
+    "comparisons": [
+      {
+        "priceCents": 3350,
+        "quotedAt": "2026-10-22 10:49:37",
+        "productCents": 3350,
+        "packingCents": null,
+        "route": "原套餐选配",
+        "couponTitle": null,
+        "usedCoupon": false
+      },
+      {
+        "priceCents": 3540,
+        "quotedAt": "2026-10-22 10:49:37",
+        "productCents": 3540,
+        "packingCents": null,
+        "route": "同餐品单点组合",
+        "couponTitle": "11.9元麦辣鸡腿堡",
+        "usedCoupon": true
+      },
+      {
+        "priceCents": 4600,
+        "quotedAt": "2026-10-22 10:49:37",
+        "productCents": 4600,
+        "packingCents": null,
+        "route": "同餐品单点组合",
+        "couponTitle": null,
+        "usedCoupon": false
+      }
+    ],
+    "failures": [],
+    "attempts": 3,
+    "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260824/product/MS_9900005456_600.png"
+  },
+  "candidates": [
+    {
+      "code": "4437",
+      "name": "小杯玉米杯",
+      "from": "中薯条",
+      "components": [
+        {
+          "code": "1440",
+          "name": "麦辣鸡腿汉堡",
+          "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260325/product/MS_1440_320.png"
+        },
+        {
+          "code": "4437",
+          "name": "小杯玉米杯",
+          "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_G4437_320.png"
+        },
+        {
+          "code": "3050",
+          "name": "可乐中杯",
+          "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_9900008751_320.gif"
+        }
+      ],
+      "nutrition": {
+        "energyKcal": 685,
+        "protein": 26,
+        "fat": 25,
+        "carbohydrate": 85,
+        "sodium": 1209,
+        "calcium": 170,
+        "complete": true,
+        "missing": []
+      },
+      "newTagged": false,
+      "tags": [
+        "小食"
+      ],
+      "relatedActivities": [],
+      "priceCents": 3300,
+      "quotedAt": "2026-10-22 10:49:39",
+      "productCents": 3300,
+      "packingCents": null,
+      "route": "原套餐选配",
+      "couponTitle": null,
+      "usedCoupon": false,
+      "couponSavingCents": 0,
+      "comparisons": [
+        {
+          "priceCents": 3300,
+          "quotedAt": "2026-10-22 10:49:39",
+          "productCents": 3300,
+          "packingCents": null,
+          "route": "原套餐选配",
+          "couponTitle": null,
+          "usedCoupon": false
+        },
+        {
+          "priceCents": 3490,
+          "quotedAt": "2026-10-22 10:49:40",
+          "productCents": 3490,
+          "packingCents": null,
+          "route": "同餐品单点组合",
+          "couponTitle": "11.9元麦辣鸡腿堡",
+          "usedCoupon": true
+        },
+        {
+          "priceCents": 4550,
+          "quotedAt": "2026-10-22 10:49:39",
+          "productCents": 4550,
+          "packingCents": null,
+          "route": "同餐品单点组合",
+          "couponTitle": null,
+          "usedCoupon": false
+        }
+      ],
+      "failures": [],
+      "attempts": 3,
+      "state": "eligible",
+      "reasons": [],
+      "deltaCents": -50,
+      "deltaKcal": -236,
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_G4437_320.png"
+    },
+    {
+      "code": "521901",
+      "name": "月下相思扭扭薯",
+      "from": "中薯条",
+      "components": [
+        {
+          "code": "1440",
+          "name": "麦辣鸡腿汉堡",
+          "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260325/product/MS_1440_320.png"
+        },
+        {
+          "code": "521901",
+          "name": "月下相思扭扭薯",
+          "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_521901_320.png"
+        },
+        {
+          "code": "3050",
+          "name": "可乐中杯",
+          "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_9900008751_320.gif"
+        }
+      ],
+      "nutrition": {
+        "energyKcal": null,
+        "protein": null,
+        "fat": null,
+        "carbohydrate": null,
+        "sodium": null,
+        "calcium": null,
+        "complete": false,
+        "missing": [
+          "月下相思扭扭薯"
+        ]
+      },
+      "newTagged": true,
+      "tags": [
+        "上新",
+        "口口酥脆",
+        "薯香十足"
+      ],
+      "relatedActivities": [],
+      "priceCents": 3500,
+      "quotedAt": "2026-10-22 10:49:38",
+      "productCents": 3500,
+      "packingCents": null,
+      "route": "原套餐选配",
+      "couponTitle": null,
+      "usedCoupon": false,
+      "couponSavingCents": 0,
+      "comparisons": [
+        {
+          "priceCents": 3500,
+          "quotedAt": "2026-10-22 10:49:38",
+          "productCents": 3500,
+          "packingCents": null,
+          "route": "原套餐选配",
+          "couponTitle": null,
+          "usedCoupon": false
+        },
+        {
+          "priceCents": 3690,
+          "quotedAt": "2026-10-22 10:49:38",
+          "productCents": 3690,
+          "packingCents": null,
+          "route": "同餐品单点组合",
+          "couponTitle": "11.9元麦辣鸡腿堡",
+          "usedCoupon": true
+        },
+        {
+          "priceCents": 4750,
+          "quotedAt": "2026-10-22 10:49:38",
+          "productCents": 4750,
+          "packingCents": null,
+          "route": "同餐品单点组合",
+          "couponTitle": null,
+          "usedCoupon": false
+        }
+      ],
+      "failures": [],
+      "attempts": 3,
+      "state": "unknown-nutrition",
+      "reasons": [],
+      "deltaCents": 150,
+      "deltaKcal": null,
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_521901_320.png"
+    },
+    {
+      "code": "521983",
+      "name": "5块心形薯饼+韩式辣椒黄油风味酱",
+      "from": "中薯条",
+      "components": [
+        {
+          "code": "1440",
+          "name": "麦辣鸡腿汉堡",
+          "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260325/product/MS_1440_320.png"
+        },
+        {
+          "code": "521983",
+          "name": "5块心形薯饼+韩式辣椒黄油风味酱",
+          "image": null
+        },
+        {
+          "code": "3050",
+          "name": "可乐中杯",
+          "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_9900008751_320.gif"
+        }
+      ],
+      "nutrition": {
+        "energyKcal": null,
+        "protein": null,
+        "fat": null,
+        "carbohydrate": null,
+        "sodium": null,
+        "calcium": null,
+        "complete": false,
+        "missing": [
+          "5块心形薯饼+韩式辣椒黄油风味酱"
+        ]
+      },
+      "newTagged": false,
+      "tags": [],
+      "relatedActivities": [],
+      "priceCents": 3450,
+      "quotedAt": "2026-10-22 10:49:38",
+      "productCents": 3450,
+      "packingCents": null,
+      "route": "原套餐选配",
+      "couponTitle": null,
+      "usedCoupon": false,
+      "couponSavingCents": 0,
+      "comparisons": [
+        {
+          "priceCents": 3450,
+          "quotedAt": "2026-10-22 10:49:38",
+          "productCents": 3450,
+          "packingCents": null,
+          "route": "原套餐选配",
+          "couponTitle": null,
+          "usedCoupon": false
+        }
+      ],
+      "failures": [],
+      "attempts": 1,
+      "state": "unknown-nutrition",
+      "reasons": [],
+      "deltaCents": 100,
+      "deltaKcal": null,
+      "image": null
+    },
+    {
+      "code": "521881",
+      "name": "马来咖喱风味薄皮肉骨鸡3块",
+      "from": "中薯条",
+      "components": [
+        {
+          "code": "1440",
+          "name": "麦辣鸡腿汉堡",
+          "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260325/product/MS_1440_320.png"
+        },
+        {
+          "code": "521881",
+          "name": "马来咖喱风味薄皮肉骨鸡3块",
+          "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_521881_320.png"
+        },
+        {
+          "code": "3050",
+          "name": "可乐中杯",
+          "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_9900008751_320.gif"
+        }
+      ],
+      "nutrition": {
+        "energyKcal": null,
+        "protein": null,
+        "fat": null,
+        "carbohydrate": null,
+        "sodium": null,
+        "calcium": null,
+        "complete": false,
+        "missing": [
+          "马来咖喱风味薄皮肉骨鸡3块"
+        ]
+      },
+      "newTagged": true,
+      "tags": [
+        "上新",
+        "浓郁咖喱飘香"
+      ],
+      "relatedActivities": [],
+      "priceCents": 3600,
+      "quotedAt": "2026-10-22 10:49:38",
+      "productCents": 3600,
+      "packingCents": null,
+      "route": "原套餐选配",
+      "couponTitle": null,
+      "usedCoupon": false,
+      "couponSavingCents": 0,
+      "comparisons": [
+        {
+          "priceCents": 3600,
+          "quotedAt": "2026-10-22 10:49:38",
+          "productCents": 3600,
+          "packingCents": null,
+          "route": "原套餐选配",
+          "couponTitle": null,
+          "usedCoupon": false
+        },
+        {
+          "priceCents": 3740,
+          "quotedAt": "2026-10-22 10:49:39",
+          "productCents": 3740,
+          "packingCents": null,
+          "route": "同餐品单点组合",
+          "couponTitle": "11.9元麦辣鸡腿堡",
+          "usedCoupon": true
+        },
+        {
+          "priceCents": 4800,
+          "quotedAt": "2026-10-22 10:49:39",
+          "productCents": 4800,
+          "packingCents": null,
+          "route": "同餐品单点组合",
+          "couponTitle": null,
+          "usedCoupon": false
+        }
+      ],
+      "failures": [],
+      "attempts": 3,
+      "state": "excluded",
+      "reasons": [
+        "超过整餐预算"
+      ],
+      "deltaCents": 250,
+      "deltaKcal": null,
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_521881_320.png"
+    },
+    {
+      "code": "4438",
+      "name": "大杯玉米杯",
+      "from": "中薯条",
+      "components": [
+        {
+          "code": "1440",
+          "name": "麦辣鸡腿汉堡",
+          "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260325/product/MS_1440_320.png"
+        },
+        {
+          "code": "4438",
+          "name": "大杯玉米杯",
+          "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_G4437_320.png"
+        },
+        {
+          "code": "3050",
+          "name": "可乐中杯",
+          "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_9900008751_320.gif"
+        }
+      ],
+      "nutrition": {
+        "energyKcal": 719,
+        "protein": 28,
+        "fat": 25,
+        "carbohydrate": 90,
+        "sodium": 1210,
+        "calcium": 174,
+        "complete": true,
+        "missing": []
+      },
+      "newTagged": false,
+      "tags": [],
+      "relatedActivities": [],
+      "priceCents": 3600,
+      "quotedAt": "2026-10-22 10:49:40",
+      "productCents": 3600,
+      "packingCents": null,
+      "route": "原套餐选配",
+      "couponTitle": null,
+      "usedCoupon": false,
+      "couponSavingCents": 0,
+      "comparisons": [
+        {
+          "priceCents": 3600,
+          "quotedAt": "2026-10-22 10:49:40",
+          "productCents": 3600,
+          "packingCents": null,
+          "route": "原套餐选配",
+          "couponTitle": null,
+          "usedCoupon": false
+        }
+      ],
+      "failures": [],
+      "attempts": 1,
+      "state": "excluded",
+      "reasons": [
+        "超过整餐预算",
+        "超过热量上限"
+      ],
+      "deltaCents": 250,
+      "deltaKcal": -202,
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_G4437_320.png"
+    },
+    {
+      "code": "4820",
+      "name": "大薯条",
+      "from": "中薯条",
+      "components": [
+        {
+          "code": "1440",
+          "name": "麦辣鸡腿汉堡",
+          "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260325/product/MS_1440_320.png"
+        },
+        {
+          "code": "4820",
+          "name": "大薯条",
+          "image": null
+        },
+        {
+          "code": "3050",
+          "name": "可乐中杯",
+          "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_9900008751_320.gif"
+        }
+      ],
+      "nutrition": {
+        "energyKcal": 1011,
+        "protein": 30,
+        "fat": 40,
+        "carbohydrate": 128,
+        "sodium": 1424,
+        "calcium": 187,
+        "complete": true,
+        "missing": []
+      },
+      "newTagged": false,
+      "tags": [],
+      "relatedActivities": [],
+      "priceCents": 3600,
+      "quotedAt": "2026-10-22 10:49:39",
+      "productCents": 3600,
+      "packingCents": null,
+      "route": "原套餐选配",
+      "couponTitle": null,
+      "usedCoupon": false,
+      "couponSavingCents": 0,
+      "comparisons": [
+        {
+          "priceCents": 3600,
+          "quotedAt": "2026-10-22 10:49:39",
+          "productCents": 3600,
+          "packingCents": null,
+          "route": "原套餐选配",
+          "couponTitle": null,
+          "usedCoupon": false
+        }
+      ],
+      "failures": [],
+      "attempts": 1,
+      "state": "excluded",
+      "reasons": [
+        "超过整餐预算",
+        "超过热量上限"
+      ],
+      "deltaCents": 250,
+      "deltaKcal": 90,
+      "image": null
+    }
+  ],
+  "recommended": "4437",
+  "constraints": {
+    "maxExtraCents": 500,
+    "maxTotalCents": 3500,
+    "maxKcal": 700
+  },
+  "changedRound": "2",
+  "locked": [
+    "麦辣鸡腿汉堡",
+    "可乐中杯"
+  ],
+  "couponCount": 2,
+  "activities": [
+    {
+      "date": "2026-10-20",
+      "status": "往期",
+      "title": "麦当劳 X PEACEMINUSONE",
+      "text": "GD同款联名复古棒球帽\n任意餐品消费加39.9元即可得\n经典红黄配色搭配复古轮廓，MV同款灵感重现\n更有标志性小雏菊刺绣图案点缀\n10月8日10:45开售\n更有APP专享积分抢先购10:40开抢\n与GD一起探索潮流新篇章🖤"
+    },
+    {
+      "date": "2026-10-21",
+      "status": "往期",
+      "title": "麦当劳 X PEACEMINUSONE",
+      "text": "周边第二弹——联名徽章正式发售\n任意餐品消费加39.9元即可得\n集结MCD爱心、小雏菊和经典薯条元素🍟\n一套三枚🖤限量珍藏\n10月15日10:45开售\n更有APP专享积分抢先购10:40开抢"
+    },
+    {
+      "date": "2026-10-22",
+      "status": "今日",
+      "title": "麦当劳「我就喜欢」限定丝巾正式开售🔥",
+      "text": "丝巾搭配棒球帽的潮流谁懂😎\n任意餐品消费加 39.9 元即可得\n颈间、包袋、手腕、头饰一巾多玩🤔\n叠搭联名棒球帽&徽章随心玩出专属潮流造型✨\n10月22日10:45开售\n更有APP专享积分抢先购10:40开抢\nget时尚icon同款潮流造型"
+    },
+    {
+      "date": "2026-10-22",
+      "status": "今日",
+      "title": "韩式风味蘸酱上新❤️就「酱」心有所「薯」",
+      "text": "🆕韩式辣椒黄油风味酱\n韩式辣酱碰撞青梅，裹挟黄油香气\n鸡薯双全盒仅需15.9元起✨getGD同款花式比心\n🆕韩式烟熏芝士风味酱\n浓郁芝香邂逅韩式香辛风味，烟熏香气层层释放\n蘸酱炸鸡仅需11.9元起🍗\n炸鸡薯饼蘸酱我全都喜欢！\n10月8日 10:30起正式开售⏰"
+    },
+    {
+      "date": "2026-10-22",
+      "status": "今日",
+      "title": "麦当劳 X PEACEMINUSONE",
+      "text": "周边第二弹——联名徽章正式发售\n任意餐品消费加39.9元即可得\n集结MCD爱心、小雏菊和经典薯条元素🍟\n一套三枚🖤限量珍藏\n10月15日10:45开售\n更有APP专享积分抢先购10:40开抢"
+    },
+    {
+      "date": "2026-10-22",
+      "status": "今日",
+      "title": "麦当劳 X PEACEMINUSONE",
+      "text": "GD同款联名复古棒球帽\n任意餐品消费加39.9元即可得\n经典红黄配色搭配复古轮廓，MV同款灵感重现\n更有标志性小雏菊刺绣图案点缀\n10月8日10:45开售\n更有APP专享积分抢先购10:40开抢\n与GD一起探索潮流新篇章🖤"
+    },
+    {
+      "date": "2026-10-22",
+      "status": "今日",
+      "title": "麦当劳联动G-DRAGON ",
+      "text": "带来韩式风味系列新品❗️\n龙焰鸡腿堡三件套 26.9 元起即刻开吃🍔\n韩式辣酱搭配酥脆多汁鸡腿排🤤\n还可升级29.9元龙焰芝士棒鸡腿堡三件套，\n两根马苏里拉拉丝芝士条，热时双倍拉丝更过瘾🧀\n10月8日 10:30 准时开售⏰You lovin' it？"
+    },
+    {
+      "date": "2026-10-22",
+      "status": "今日",
+      "title": "🫐一口爆汁！蓝莓爆爆珠麦旋风上新",
+      "text": "🫐蓝莓爆爆珠麦旋风上新！\n💜清甜蓝莓碰上醇厚奶香，酸甜清爽。\n💥真实蓝莓原浆x爆爆珠，颗颗爆汁好惊喜。\n😋绵密冰淇淋撞上弹爽口感，莓好滋味层层爆开！\n还在等什么，马上尝新~"
+    },
+    {
+      "date": "2026-10-22",
+      "status": "今日",
+      "title": "早餐爆款回归，快来pick你的厚松饼堡！📣",
+      "text": "返工别紧张，厚松饼堡让你松软一下🫵\n🥞甜甜松饼，软软口感\n🍁经典枫糖风味和浓郁巧克力味两款可选🍫\n10月8日起，指定套餐可享早餐卡6折优惠\n3件套到手只要15元起，快来优惠吃"
+    },
+    {
+      "date": "2026-10-22",
+      "status": "今日",
+      "title": "🍫麦咖啡13.9r浓浓黑巧来啦！",
+      "text": "地道浓醇黑巧，风味浓郁醇厚\n200目精细研磨工艺，触感丝滑如绒\n戳下方，速来解锁！"
+    },
+    {
+      "date": "2026-10-22",
+      "status": "今日",
+      "title": "麦咖啡一早现磨🥳元气早餐震撼来袭！",
+      "text": "☕甄选 2024IIAC 国际咖啡品鉴大赛“金奖“咖啡豆\n🥪多款人气早餐主食随心挑选，满足你的多种需求\n✨清晨能量一键配齐，14.9元起，开启你的元气一天"
+    },
+    {
+      "date": "2026-10-22",
+      "status": "今日",
+      "title": "🩶灰白撞色，灰焰圆筒酷爽登场",
+      "text": "🩶灰焰圆筒酷爽上新！\n🍦浓郁香草味碰上酷灰脆筒，灰白撞色吸睛。\n✨入口绵密丝滑，一口咬下筒壳咔嚓酥脆。\n😋绵密与香脆层层交织，一口解锁甜酷反差！\n还在等什么，马上尝新~"
+    },
+    {
+      "date": "2026-10-22",
+      "status": "今日",
+      "title": "学生专属！49元150天麦金学期卡💳",
+      "text": "💰仅0.33元/天，到手150天吃麦特权！\n5️⃣折起吃超值四件套、6折吃早餐\n🛵每日两次满额免配，9.9元麦咖啡\n🦉开卡还送多邻国月卡，美味和学习一步到位\n👛新学期钱包不吃紧，开心吃麦快乐学习！"
+    },
+    {
+      "date": "2026-10-22",
+      "status": "今日",
+      "title": "过家家派对上线，快来一起解锁梦想职业",
+      "text": "过家家派对就要开始啦!\n萌娃cosplay梦想职业，精美职业服带回家\nDIY 创意手工，想象力在指尖自由绽放\n9月9日到店解锁过家家派对\n粉红姐姐带你玩转麦当劳，开启童趣一天~"
+    },
+    {
+      "date": "2026-10-22",
+      "status": "今日",
+      "title": "“韩”风刮到了四件套~龙焰鸡腿堡来袭！",
+      "text": "🍔麦金卡点「龙焰鸡腿堡」四件套29元起\n🍗韩式辣酱碰撞青梅黄油，爆脆鸡腿排多汁裹酱！\n✨一张麦金卡包揽全天吃麦特权\n6折早餐、9.9元麦咖啡、满额免配统统安排\n😋快来打卡美味，这场韩式盛宴等你加入！"
+    },
+    {
+      "date": "2026-10-22",
+      "status": "今日",
+      "title": "乐享90分钟高质量亲子时间",
+      "text": "打造高质量陪伴时光🎊\n9本热门书籍且每月更新！\n更有开心乐园餐+随机玩具一份🎁\n好吃又好玩！快报名参加吧~"
+    },
+    {
+      "date": "2026-10-22",
+      "status": "今日",
+      "title": "快来一起参加麦麦派对吧！",
+      "text": "遛娃好去处🎉麦当劳趣读派对！\n6大环节，趣味互动✨\n好吃又好玩，快乐持续加倍！\n👇一起领取“读书小达人“证书吧~"
+    },
+    {
+      "date": "2026-10-23",
+      "status": "预告",
+      "title": "学生专属！49元150天麦金学期卡💳",
+      "text": "💰仅0.33元/天，到手150天吃麦特权！\n5️⃣折起吃超值四件套、6折吃早餐\n🛵每日两次满额免配，9.9元麦咖啡\n🦉开卡还送多邻国月卡，美味和学习一步到位\n👛新学期钱包不吃紧，开心吃麦快乐学习！"
+    },
+    {
+      "date": "2026-10-24",
+      "status": "预告",
+      "title": "韩式风味蘸酱上新❤️就「酱」心有所「薯」",
+      "text": "🆕韩式辣椒黄油风味酱\n韩式辣酱碰撞青梅，裹挟黄油香气\n鸡薯双全盒仅需15.9元起✨getGD同款花式比心\n🆕韩式烟熏芝士风味酱\n浓郁芝香邂逅韩式香辛风味，烟熏香气层层释放\n蘸酱炸鸡仅需11.9元起🍗\n炸鸡薯饼蘸酱我全都喜欢！\n10月8日 10:30起正式开售⏰"
+    },
+    {
+      "date": "2026-10-25",
+      "status": "预告",
+      "title": "麦当劳联动G-DRAGON ",
+      "text": "带来韩式风味系列新品❗️\n龙焰鸡腿堡三件套 26.9 元起即刻开吃🍔\n韩式辣酱搭配酥脆多汁鸡腿排🤤\n还可升级29.9元龙焰芝士棒鸡腿堡三件套，\n两根马苏里拉拉丝芝士条，热时双倍拉丝更过瘾🧀\n10月8日 10:30 准时开售⏰You lovin' it？"
+    },
+    {
+      "date": "2026-10-28",
+      "status": "预告",
+      "title": "“韩”风刮到了四件套~龙焰鸡腿堡来袭！",
+      "text": "🍔麦金卡点「龙焰鸡腿堡」四件套29元起\n🍗韩式辣酱碰撞青梅黄油，爆脆鸡腿排多汁裹酱！\n✨一张麦金卡包揽全天吃麦特权\n6折早餐、9.9元麦咖啡、满额免配统统安排\n😋快来打卡美味，这场韩式盛宴等你加入！"
+    },
+    {
+      "date": "2026-10-29",
+      "status": "预告",
+      "title": "早餐爆款回归，快来pick你的厚松饼堡！📣",
+      "text": "返工别紧张，厚松饼堡让你松软一下🫵\n🥞甜甜松饼，软软口感\n🍁经典枫糖风味和浓郁巧克力味两款可选🍫\n10月8日起，指定套餐可享早餐卡6折优惠\n3件套到手只要15元起，快来优惠吃"
+    },
+    {
+      "date": "2026-10-30",
+      "status": "预告",
+      "title": "🍫麦咖啡13.9r浓浓黑巧来啦！",
+      "text": "地道浓醇黑巧，风味浓郁醇厚\n200目精细研磨工艺，触感丝滑如绒\n戳下方，速来解锁！"
+    },
+    {
+      "date": "2026-11-01",
+      "status": "预告",
+      "title": "🩶灰白撞色，灰焰圆筒酷爽登场",
+      "text": "🩶灰焰圆筒酷爽上新！\n🍦浓郁香草味碰上酷灰脆筒，灰白撞色吸睛。\n✨入口绵密丝滑，一口咬下筒壳咔嚓酥脆。\n😋绵密与香脆层层交织，一口解锁甜酷反差！\n还在等什么，马上尝新~"
+    },
+    {
+      "date": "2026-11-02",
+      "status": "预告",
+      "title": "麦咖啡一早现磨🥳元气早餐震撼来袭！",
+      "text": "☕甄选 2024IIAC 国际咖啡品鉴大赛“金奖“咖啡豆\n🥪多款人气早餐主食随心挑选，满足你的多种需求\n✨清晨能量一键配齐，14.9元起，开启你的元气一天"
+    },
+    {
+      "date": "2026-11-03",
+      "status": "预告",
+      "title": "🫐一口爆汁！蓝莓爆爆珠麦旋风上新",
+      "text": "🫐蓝莓爆爆珠麦旋风上新！\n💜清甜蓝莓碰上醇厚奶香，酸甜清爽。\n💥真实蓝莓原浆x爆爆珠，颗颗爆汁好惊喜。\n😋绵密冰淇淋撞上弹爽口感，莓好滋味层层爆开！\n还在等什么，马上尝新~"
+    }
+  ],
+  "warnings": [],
+  "coverage": {
+    "evaluated": 6,
+    "available": 6,
+    "maxCouponsPerRoute": 6,
+    "scope": "当前套餐的单项替换；验证通过的同餐品单点路径及至多 6 个单券方案。非全菜单穷举，不保证全局最低。"
+  },
+  "audit": [
+    {
+      "tool": "query-nearby-stores",
+      "ok": true,
+      "elapsedMs": 314,
+      "at": "2026-10-22T02:49:33.584Z"
+    },
+    {
+      "tool": "list-nutrition-foods",
+      "ok": true,
+      "elapsedMs": 129,
+      "at": "2026-10-22T02:49:34.169Z"
+    },
+    {
+      "tool": "now-time-info",
+      "ok": true,
+      "elapsedMs": 216,
+      "at": "2026-10-22T02:49:34.256Z"
+    },
+    {
+      "tool": "query-store-coupons",
+      "ok": true,
+      "elapsedMs": 253,
+      "at": "2026-10-22T02:49:34.293Z"
+    },
+    {
+      "tool": "query-meals",
+      "ok": true,
+      "elapsedMs": 278,
+      "at": "2026-10-22T02:49:34.317Z"
+    },
+    {
+      "tool": "campaign-calendar",
+      "ok": true,
+      "elapsedMs": 377,
+      "at": "2026-10-22T02:49:34.417Z"
+    },
+    {
+      "tool": "query-meal-detail",
+      "ok": true,
+      "elapsedMs": 164,
+      "at": "2026-10-22T02:49:35.048Z"
+    },
+    {
+      "tool": "query-meal-detail",
+      "ok": true,
+      "elapsedMs": 105,
+      "at": "2026-10-22T02:49:35.204Z"
+    },
+    {
+      "tool": "query-meal-detail",
+      "ok": true,
+      "elapsedMs": 104,
+      "at": "2026-10-22T02:49:35.308Z"
+    },
+    {
+      "tool": "query-meal-detail",
+      "ok": true,
+      "elapsedMs": 93,
+      "at": "2026-10-22T02:49:35.401Z"
+    },
+    {
+      "tool": "calculate-price",
+      "ok": true,
+      "elapsedMs": 163,
+      "at": "2026-10-22T02:49:35.565Z"
+    },
+    {
+      "tool": "calculate-price",
+      "ok": true,
+      "elapsedMs": 138,
+      "at": "2026-10-22T02:49:35.704Z"
+    },
+    {
+      "tool": "calculate-price",
+      "ok": true,
+      "elapsedMs": 209,
+      "at": "2026-10-22T02:49:35.913Z"
+    },
+    {
+      "tool": "calculate-price",
+      "ok": true,
+      "elapsedMs": 179,
+      "at": "2026-10-22T02:49:36.092Z"
+    },
+    {
+      "tool": "query-meal-detail",
+      "ok": true,
+      "elapsedMs": 86,
+      "at": "2026-10-22T02:49:36.178Z"
+    },
+    {
+      "tool": "calculate-price",
+      "ok": true,
+      "elapsedMs": 157,
+      "at": "2026-10-22T02:49:36.335Z"
+    },
+    {
+      "tool": "calculate-price",
+      "ok": true,
+      "elapsedMs": 134,
+      "at": "2026-10-22T02:49:36.469Z"
+    },
+    {
+      "tool": "calculate-price",
+      "ok": true,
+      "elapsedMs": 187,
+      "at": "2026-10-22T02:49:36.656Z"
+    },
+    {
+      "tool": "query-meal-detail",
+      "ok": true,
+      "elapsedMs": 102,
+      "at": "2026-10-22T02:49:36.758Z"
+    },
+    {
+      "tool": "calculate-price",
+      "ok": true,
+      "elapsedMs": 148,
+      "at": "2026-10-22T02:49:36.906Z"
+    },
+    {
+      "tool": "calculate-price",
+      "ok": true,
+      "elapsedMs": 152,
+      "at": "2026-10-22T02:49:37.058Z"
+    },
+    {
+      "tool": "calculate-price",
+      "ok": true,
+      "elapsedMs": 158,
+      "at": "2026-10-22T02:49:37.216Z"
+    },
+    {
+      "tool": "calculate-price",
+      "ok": true,
+      "elapsedMs": 159,
+      "at": "2026-10-22T02:49:37.375Z"
+    },
+    {
+      "tool": "query-meal-detail",
+      "ok": true,
+      "elapsedMs": 124,
+      "at": "2026-10-22T02:49:37.500Z"
+    },
+    {
+      "tool": "calculate-price",
+      "ok": true,
+      "elapsedMs": 136,
+      "at": "2026-10-22T02:49:37.637Z"
+    },
+    {
+      "tool": "calculate-price",
+      "ok": true,
+      "elapsedMs": 131,
+      "at": "2026-10-22T02:49:37.768Z"
+    },
+    {
+      "tool": "calculate-price",
+      "ok": true,
+      "elapsedMs": 369,
+      "at": "2026-10-22T02:49:38.138Z"
+    },
+    {
+      "tool": "calculate-price",
+      "ok": true,
+      "elapsedMs": 149,
+      "at": "2026-10-22T02:49:38.287Z"
+    }
+  ],
+  "snapshotNotice": "2026-10-22 官方 MCP 浏览器端到端实测；非当前报价或你的账户优惠",
+  "imageNotice": "图片来自同日官方 MCP 菜单，部分为通用餐品示意；份量以文字为准。图片字段为展示补充，不改变原始核价。"
+}
