@@ -1,0 +1,2 @@
+# Preserve the official declaration byte-for-byte on every platform.
+CONTEST_DECLARATION.md -text
